@@ -1,4 +1,3 @@
-/* fix layout */
 if(document.getElementsByTagName('crypto-stamps-wallet') && document.getElementsByTagName('crypto-stamps-wallet').length > 0) {
   document.getElementsByTagName('crypto-stamps-wallet')[0].closest('.mif-rich-text__content').className=''
   document.getElementsByTagName('crypto-stamps-wallet')[0].closest('.row').className=''
